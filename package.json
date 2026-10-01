@@ -1,7 +1,7 @@
 {
   "name": "chain_pharma",
   "version": "1.0.0",
-  "description": "Pharmaceutical SupplyChain Tracking using Ethereum Blockchain Network and Zeeve API Endpoint.",
+  "description": "Retired pharmaceutical supply-chain coursework; local disposable RPC only",
   "main": "truffle-config.js",
   "directories": {
     "doc": "docs",
@@ -38,5 +38,6 @@
   "bugs": {
     "url": "https://github.com/hgins-tekina/Chain-Pharma/issues"
   },
-  "homepage": "https://github.com/hgins-tekina/Chain-Pharma#readme"
+  "homepage": "https://github.com/hgins-tekina/Chain-Pharma#readme",
+  "private": true
 }
